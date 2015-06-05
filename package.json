@@ -1,7 +1,7 @@
 {
   "name": "dbus",
   "main": "./lib/dbus",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provides a dbus interface for IPC with atom",
   "keywords": [],
   "repository": "https://github.com/forivall/atom-dbus",
