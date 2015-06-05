@@ -2,17 +2,14 @@
   "name": "dbus",
   "main": "./lib/dbus",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
-  ],
-  "activationCommands": {
-    "atom-workspace": "dbus:toggle"
-  },
-  "repository": "https://github.com/atom/dbus",
+  "description": "Provides a dbus interface for IPC with atom",
+  "keywords": [],
+  "repository": "https://github.com/forivall/atom-dbus",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {
+    "dbus-native": "^0.2.0"
   }
 }
