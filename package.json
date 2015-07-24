@@ -3,7 +3,7 @@
   "main": "./lib/dbus",
   "version": "0.0.1",
   "description": "Provides a dbus interface for IPC with atom",
-  "keywords": [],
+  "keywords": ["linux", "rpc", "dbus", "remote"],
   "repository": "https://github.com/forivall/atom-dbus",
   "license": "MIT",
   "engines": {
